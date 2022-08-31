@@ -37,6 +37,17 @@ Python
   - Evaluation Metrics
     - ROUGE
     - F1/Precision/Recall
+
 Colaboration
   - google colab
   - Latex
+
+## Learned about
+- Encoders/Decoders
+- Attention Mechanisms
+- Transformers
+- Pre Training
+- Fine Tunning
+- Evalutaion Metrics
+- Data Scraping
+- Machine Learning behind Summerizers
