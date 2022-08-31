@@ -1,5 +1,10 @@
 # MCM PRACTICUM - The Blurble System
 
+## Team
+
+Albertas Ovodas
+Théo Delettre
+
 ## Introduction
 
 We investigate the effectivness of summerization models (BART,BERT,PEGUSUS and T5) with novels. This input source is drastically longer than previous litterature where they use datasets based on news articles. 
@@ -13,4 +18,25 @@ Most of the code for this project has been done in Google Colab and can now be f
 - Various models are prepared and run on the dataset in the "Models and Results" folder
 - Other files are self-explinatory and were made to better analyse and understand our results
 
-
+## Programs/Technology Used
+Python
+  -Natural Language Processing
+  -Named entity recognition
+    -Spacy
+    -NLTK
+    -Flair
+  -Hugging face Summerization Models with various finetunning
+    -BART 
+    -T5
+    -BERT,
+    -Pegasus 
+  -Data minning/scraping
+    -Wikipedia
+    -Project gutenberg
+    -Goodreeds
+  -Evaluation Metrics
+    -ROUGE
+    -F1/Precision/Recall
+Colaboration
+  -google colab
+  -Latex
