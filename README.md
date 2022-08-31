@@ -20,23 +20,23 @@ Most of the code for this project has been done in Google Colab and can now be f
 
 ## Programs/Technology Used
 Python
-  -Natural Language Processing
-  -Named entity recognition
-    -Spacy
-    -NLTK
-    -Flair
-  -Hugging face Summerization Models with various finetunning
-    -BART 
-    -T5
-    -BERT,
-    -Pegasus 
-  -Data minning/scraping
-    -Wikipedia
-    -Project gutenberg
-    -Goodreeds
-  -Evaluation Metrics
-    -ROUGE
-    -F1/Precision/Recall
+  - Natural Language Processing
+  - Named entity recognition
+    - Spacy
+    - NLTK
+    - Flair
+  - Hugging face Summerization Models with various finetunning
+    - BART 
+    - T5
+    - BERT,
+    - Pegasus 
+  - Data minning/scraping
+    - Wikipedia
+    - Project gutenberg
+    - Goodreeds
+  - Evaluation Metrics
+    - ROUGE
+    - F1/Precision/Recall
 Colaboration
-  -google colab
-  -Latex
+  - google colab
+  - Latex
