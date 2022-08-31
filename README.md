@@ -51,3 +51,7 @@ Colaboration
 - Evalutaion Metrics
 - Data Scraping
 - Machine Learning behind Summerizers
+
+## Results and Analysis
+All the results and in depth analysis of theory, model, disscusions and results can be found in /doc/Practicum_Report-Theo_Albert.pdf
+
