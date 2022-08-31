@@ -1,17 +1,7 @@
-Place your user manual and technical documentation in this directory.
+The final report
 
-PDF is the preferred format.
+Done by Albertas Ovodas and Theo Delettre
+Called the Blurble Abstractive Summerizer
+Worked on this for 3 months (summer time) as part of the Masters Degree from DCU
 
-The first page of each document should contain at least:
-
-- your name,
-- your project title,
-- the type of document (e.g. *Technical Manual*)
-- your student number, and
-- the date you finished working on the document.
-
-In addition, the file names you choose to use should make clear what the document content is.
-
-**The final version of your documents should be converted to PDF and stored in this same directory**
-
-*Do not place any other files in this directory.*
+Final Result 1:1 on the practicum with 80%  
