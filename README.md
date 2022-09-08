@@ -55,6 +55,12 @@ Colaboration
 ## Results and Analysis
 All the results and in depth analysis of theory, model, disscusions and results can be found in /doc/Practicum_Report-Theo_Albert.pdf
 
+Main Findings for summerizer:
+![image](https://user-images.githubusercontent.com/100313005/189165968-921f96fa-b7c8-442e-a94a-6bef34c3a5ee.png)
+
+Main Findings for NER:
+![image](https://user-images.githubusercontent.com/100313005/189166164-b6cff926-8730-45e3-a3d4-c90ca5b5dcfc.png)
+
 
 ## DEMO
 
