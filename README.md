@@ -55,3 +55,8 @@ Colaboration
 ## Results and Analysis
 All the results and in depth analysis of theory, model, disscusions and results can be found in /doc/Practicum_Report-Theo_Albert.pdf
 
+
+## DEMO
+
+![image](https://user-images.githubusercontent.com/100313005/189165710-5e048ef0-2571-43d3-98df-55f44453f0f8.png)
+
