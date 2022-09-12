@@ -3,11 +3,12 @@
 ## Team
 
 Albertas Ovodas
+
 Théo Delettre
 
 ## Introduction
 
-We investigate the effectivness of summerization models (BART,BERT,PEGUSUS and T5) with novels. This input source is drastically longer than previous litterature where they use datasets based on news articles. 
+We investigate the effectivness of summerization models (BART,BERT,PEGUSUS and T5) with novels, with the goal of creating blurbs. This input source is drastically longer than previous litterature, which mainly explores the use of datasets based on shorter, factual, news articles. 
 We create our own test datasets, by data mining/extracting information from Project Gutenberg, Wikipedia, and Goodreads.
 
 ## Instructions
